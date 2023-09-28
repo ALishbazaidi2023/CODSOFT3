@@ -1,0 +1,25 @@
+.main{
+    border: 2px solid black;
+    width: 200px;
+    margin: 0 auto;
+}
+.result{
+    width: 95%;
+    background-color: grey;
+    color: white;
+}
+.clrbtn{
+    width: 100%;
+    background-color: lightgrey;
+    margin-top: 5px;
+}
+.btn{
+    background-color: lightgray;
+    width: 40px;
+    margin: 3px;
+}
+.halfbtn{
+    background-color: lightgray;
+    width: 97px;
+    margin-top: 5px;
+}
